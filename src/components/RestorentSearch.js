@@ -5,7 +5,7 @@ class RestorentSearch extends Component {
         return (
             <div>
                 <h1>
-RestorentSearch</h1>
+Restorent more Search</h1>
             </div>
         );
     }
